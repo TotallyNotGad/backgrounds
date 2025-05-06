@@ -11,101 +11,101 @@
 
 <static>
 <duration>2400.0</duration>
-<file>~/.local/share/backgrounds/gnome/Firewatch/1.jpg</file>
+<file>.local/share/backgrounds/gnome/Firewatch/1.jpg</file>
 </static>
 
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>~/.local/share/backgrounds/gnome/Firewatch/1.jpg</from>
-<to>~/.local/share/backgrounds/gnome/Firewatch/2.jpg</to>
+<from>.local/share/backgrounds/gnome/Firewatch/1.jpg</from>
+<to>.local/share/backgrounds/gnome/Firewatch/2.jpg</to>
 </transition>
 
 <static>
 <duration>2400.0</duration>
-<file>~/.local/share/backgrounds/gnome/Firewatch/2.jpg</file>
+<file>.local/share/backgrounds/gnome/Firewatch/2.jpg</file>
 </static>
 
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>~/.local/share/backgrounds/gnome/Firewatch/2.jpg</from>
-<to>~/.local/share/backgrounds/gnome/Firewatch/3.jpg</to>
+<from>.local/share/backgrounds/gnome/Firewatch/2.jpg</from>
+<to>.local/share/backgrounds/gnome/Firewatch/3.jpg</to>
 </transition>
 
 <static>
 <duration>2400.0</duration>
-<file>~/.local/share/backgrounds/gnome/Firewatch/3.jpg</file>
+<file>.local/share/backgrounds/gnome/Firewatch/3.jpg</file>
 </static>
 
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>~/.local/share/backgrounds/gnome/Firewatch/3.jpg</from>
-<to>~/.local/share/backgrounds/gnome/Firewatch/4.jpg</to>
+<from>.local/share/backgrounds/gnome/Firewatch/3.jpg</from>
+<to>.local/share/backgrounds/gnome/Firewatch/4.jpg</to>
 </transition>
 
 <static>
 <duration>2400.0</duration>
-<file>~/.local/share/backgrounds/gnome/Firewatch/4.jpg</file>
+<file>.local/share/backgrounds/gnome/Firewatch/4.jpg</file>
 </static>
 
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>~/.local/share/backgrounds/gnome/Firewatch/4.jpg</from>
-<to>~/.local/share/backgrounds/gnome/Firewatch/5.jpg</to>
+<from>.local/share/backgrounds/gnome/Firewatch/4.jpg</from>
+<to>.local/share/backgrounds/gnome/Firewatch/5.jpg</to>
 </transition>
 
 <static>
 <duration>2400.0</duration>
-<file>~/.local/share/backgrounds/gnome/Firewatch/5.jpg</file>
+<file>.local/share/backgrounds/gnome/Firewatch/5.jpg</file>
 </static>
 
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>~/.local/share/backgrounds/gnome/Firewatch/5.jpg</from>
-<to>~/.local/share/backgrounds/gnome/Firewatch/6.jpg</to>
+<from>.local/share/backgrounds/gnome/Firewatch/5.jpg</from>
+<to>.local/share/backgrounds/gnome/Firewatch/6.jpg</to>
 </transition>
 
 <static>
 <duration>2400.0</duration>
-<file>~/.local/share/backgrounds/gnome/Firewatch/6.jpg</file>
+<file>.local/share/backgrounds/gnome/Firewatch/6.jpg</file>
 </static>
 
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>~/.local/share/backgrounds/gnome/Firewatch/6.jpg</from>
-<to>~/.local/share/backgrounds/gnome/Firewatch/7.jpg</to>
+<from>.local/share/backgrounds/gnome/Firewatch/6.jpg</from>
+<to>.local/share/backgrounds/gnome/Firewatch/7.jpg</to>
 </transition>
 
 <static>
 <duration>2400.0</duration>
-<file>~/.local/share/backgrounds/gnome/Firewatch/7.jpg</file>
+<file>.local/share/backgrounds/gnome/Firewatch/7.jpg</file>
 </static>
 
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>~/.local/share/backgrounds/gnome/Firewatch/7.jpg</from>
-<to>~/.local/share/backgrounds/gnome/Firewatch/8.jpg</to>
+<from>.local/share/backgrounds/gnome/Firewatch/7.jpg</from>
+<to>.local/share/backgrounds/gnome/Firewatch/8.jpg</to>
 </transition>
 
 <static>
 <duration>2400.0</duration>
-<file>~/.local/share/backgrounds/gnome/Firewatch/8.jpg</file>
+<file>.local/share/backgrounds/gnome/Firewatch/8.jpg</file>
 </static>
 
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>~/.local/share/backgrounds/gnome/Firewatch/8.jpg</from>
-<to>~/.local/share/backgrounds/gnome/Firewatch/9.jpg</to>
+<from>.local/share/backgrounds/gnome/Firewatch/8.jpg</from>
+<to>.local/share/backgrounds/gnome/Firewatch/9.jpg</to>
 </transition>
 
 <static>
 <duration>2400.0</duration>
-<file>~/.local/share/backgrounds/gnome/Firewatch/9.jpg</file>
+<file>.local/share/backgrounds/gnome/Firewatch/9.jpg</file>
 </static>
 
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>~/.local/share/backgrounds/gnome/Firewatch/9.jpg</from>
-<to>~/.local/share/backgrounds/gnome/Firewatch/1.jpg</to>
+<from>.local/share/backgrounds/gnome/Firewatch/9.jpg</from>
+<to>.local/share/backgrounds/gnome/Firewatch/1.jpg</to>
 </transition>
 </background>
 
